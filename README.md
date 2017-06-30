@@ -41,6 +41,7 @@ TODO List
 - [x] Beacon!
 - [x] Folder Plugin Loader
 - [x] More Blocks
+- [] Pistons
 - [x] Anvil
 - [x] Global resource packs
 
